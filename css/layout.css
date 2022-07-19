@@ -1,9 +1,7 @@
-body{
-    text-align: center;
-}
 .portfolio{
     width: 570px;
     margin: auto;
+    text-align: center;
 }
 img{
     width: 250px;
